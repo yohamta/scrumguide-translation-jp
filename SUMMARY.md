@@ -1,6 +1,6 @@
 # Table of contents
 
-* [スクラムガイド 非公式翻訳](README.md)
+* [About](README.md)
 
 ## スクラムガイド (2020 最新版) <a href="#2020" id="2020"></a>
 
