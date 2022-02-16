@@ -26,4 +26,4 @@
 
 ## 改善に貢献する方法
 
-この非公式翻訳は、どなたでも翻訳や改善に参加することができます。GitHubのリポジトリをご覧ください。どのような些細な改善でも問題ありません。お気づきの点がありましたら、PRを作成してください。
+この非公式翻訳は、どなたでも翻訳や改善に参加することができます。GitHubの[リポジトリ](https://github.com/yohamta/scrumguide-translation-jp)をご覧ください。どのような些細な改善でも問題ありません。お気づきの点がありましたら、[PR](https://github.com/yohamta/scrumguide-translation-jp/pulls)を作成してください。
