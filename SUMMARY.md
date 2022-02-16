@@ -2,13 +2,13 @@
 
 * [スクラムガイド 非公式翻訳](README.md)
 
-## スクラムガイド (2020 最新版)
+## スクラムガイド (2020 最新版) <a href="#2020" id="2020"></a>
 
-* [スクラムガイドの目的](scrumguide-2020/purpose.md)
-* [スクラムの定義](scrumguide-2020/definition.md)
-* [スクラムの理論](scrumguide-2020/theory.md)
-* [スクラムの価値基準](scrumguide-2020/values.md)
-* [スクラムチーム](scrumguide-2020/team.md)
-* [スクラムのイベント](scrumguide-2020/events.md)
-* [スクラムのアーティファクト](scrumguide-2020/artifacts.md)
-* [最後に](scrumguide-2020/endnote.md)
+* [スクラムガイドの目的](2020/purpose.md)
+* [スクラムの定義](2020/definition.md)
+* [スクラムの理論](2020/theory.md)
+* [スクラムの価値基準](2020/values.md)
+* [スクラムチーム](2020/team.md)
+* [スクラムのイベント](2020/events.md)
+* [スクラムのアーティファクト](2020/artifacts.md)
+* [最後に](2020/endnote.md)
