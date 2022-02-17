@@ -1,7 +1,3 @@
----
-description: スクラムガイド
----
-
 # スクラムガイド Essential 日本語版
 
 本書は [スクラムガイド 2020（最新版）](https://scrumguides.org/scrum-guide.html)の**非公式翻訳**です。スクラムガイドの公式な日本語版は[こちら](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf)にあります。
