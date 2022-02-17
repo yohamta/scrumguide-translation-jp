@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Essential 日本語版について](README.md)
+* [スクラムガイド Essential 日本語版](README.md)
 
 ## スクラムガイド (2020 最新版) <a href="#2020" id="2020"></a>
 
